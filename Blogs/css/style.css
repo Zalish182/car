@@ -1,0 +1,27 @@
+body{
+    background:black;
+}
+.img{
+    background-image: url('../rolls-royce.jpg');
+    width: 100%;
+    height:800px;
+    
+}
+.para h1{
+    color: white;
+}
+.para p{
+    padding: 50px;
+    text-align: justify;
+    font-size: 2em;
+    max-width:800px;
+    color: white;
+    text-shadow: 2px 3px black;
+}
+.back{
+    margin: 10px;
+    text-decoration: none;
+    padding: 20px;
+    color:white;
+    background: red;
+}

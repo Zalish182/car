@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    background-image:url('../gtr.jpg');
+}
+table,td,th{
+    border: 1px solid black;
+    text-align: left;
+    color:black;
+     padding:20px;
+}
+table{
+
+    margin:50px;
+    max-width:100%;
+    max-height: 900px;
+    padding:50px;
+    border-collapse: collapse;
+    background: white;
+    opacity: 0.8;
+}
+.back{
+    margin: 10px;
+    text-decoration: none;
+    padding: 20px;
+    color:white;
+    background: red;
+}

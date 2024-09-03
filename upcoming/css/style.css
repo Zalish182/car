@@ -1,0 +1,71 @@
+h1{
+    color: whitesmoke;
+}
+body{
+    background-image: url('../../backg.jpg');
+    width: 1200px;
+    height: auto;
+    margin: 0;
+}
+
+.f li{
+    color:white;
+    font-size:2em;
+}
+.f p{
+    color:white;
+    max-width:100%;
+    text-align: justify;
+    padding: 15px;
+    display: block;
+}
+ol{
+    list-style-type: upper-roman;
+    color: white;
+    
+}
+f. ul li{
+    list-style-type: square;
+    color: white;
+}
+.img1{
+    max-width: 1250px;
+    margin: 20px;
+}
+.A li{
+    color:white;
+    font-size: 2em;
+}
+.A p{
+    color:white;
+    max-width:100%;
+    text-align: justify;
+    padding: 15px;
+    display: block;
+}
+.img2{
+    max-width: 1250px;
+    margin: 20px;
+}
+.M li{
+    color:white;
+    font-size: 2em;
+}
+.M p{
+    color:white;
+    max-width:100%;
+    text-align: justify;
+    padding: 15px;
+    display: block;
+}
+.img3{
+    max-width: 1250px;
+    margin: 20px;
+}
+.back{
+    margin: 10px;
+    text-decoration: none;
+    padding: 20px;
+    color:white;
+    background: red;
+}

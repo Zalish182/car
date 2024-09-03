@@ -1,0 +1,26 @@
+body{
+    background-image: url('backg.jpg');
+    background-repeat: no-repeat;
+    width: 1200px;
+    margin:0;
+    
+}
+.main{
+    color: white;
+    text-align: left;
+    padding:100px 100px 100px 200px;
+    
+}
+h2{
+    text-align:center;
+   
+    color:white;
+    
+}
+.back{
+    margin: 10px;
+    text-decoration: none;
+    padding: 20px;
+    color:white;
+    background: red;
+}
